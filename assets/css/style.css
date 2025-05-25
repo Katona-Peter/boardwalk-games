@@ -95,6 +95,26 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+
+#events .table{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#events .button-primary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:300px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+
+#events-book{
+    margin-bottom: 40px;
+}
+
 /* Game library cards */
 
 #new-games .card,
